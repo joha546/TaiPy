@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore Taipy virtual environment
+taipy/
